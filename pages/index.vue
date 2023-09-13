@@ -20,7 +20,7 @@
             >
                 <div class="py-4">
                     <h2 class="font-bebas">{{stats.totalAddress}}</h2>
-                    <p>Total Wallet Addresses</p>
+                    <p>Total Wallet Addresses 娃哈哈</p>
                 </div>
             </v-col>
             <v-col
